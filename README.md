@@ -1,4 +1,4 @@
-# Find Route
+# pathfinder-grid
 
 Aplicacion web hecha con React, TypeScript y Vite para generar una grid con obstaculos aleatorios y encontrar caminos entre una coordenada de origen y una de destino.
 
@@ -28,13 +28,13 @@ Clona el repositorio:
 
 ```bash
 git clone <URL_DEL_REPOSITORIO>
-cd find-route
+cd pathfinder-grid
 ```
 
 Si ya tienes el proyecto descargado, entra a la carpeta:
 
 ```bash
-cd find-route
+cd pathfinder-grid
 ```
 
 ## Instalar dependencias
